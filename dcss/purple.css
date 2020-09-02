@@ -1,0 +1,30 @@
+html {
+}
+ body { 
+  background-image: url("2.png")
+ }
+ ul {
+  margin: 8;
+  padding: 1;
+  overflow: hidden;
+  border: 3px solid cadetblue;
+  list-style: none;
+  background-color:aliceblue;
+  height: 50%;
+  padding: 15px;
+}
+
+/* use this to put borders around things... */
+.thin_border{
+	border: 1.5px solid black;
+}
+h1{
+	color: darkcyan;
+}
+
+footer {
+  background-color:aliceblue;
+  height: 80%;
+  color: black;
+  padding: 15px;}
+}
